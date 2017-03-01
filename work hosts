@@ -30,3 +30,5 @@
 127.0.0.1 www.youtube.com
 ::1 youtube.com
 ::1 www.youtube.com
+127.0.0.1 youku.com
+127.0.0.1 www.youku.com
